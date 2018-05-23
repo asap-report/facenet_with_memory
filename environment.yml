@@ -1,0 +1,9 @@
+name: facememory
+dependencies:
+- anaconda::python=3.6
+- anaconda::matplotlib==2.1.0
+- anaconda::Pillow==5.1.0
+- anaconda::scikit-learn==0.19.1
+- conda-forge::notebook==5.4
+- conda-forge::tensorflow==1.8.0
+- conda-forge::pathlib2==2.3.2
